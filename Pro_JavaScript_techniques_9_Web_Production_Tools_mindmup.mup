@@ -1,5 +1,87 @@
 {
   "title": "Pro_JavaScript_techniques_9_Web_Production_Tools_mindmup",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Jobs better and fast",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Bower ( package manage system )",
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "project dependencies on has been downloaded and installed.",
+              "id": 5
+            }
+          }
+        },
+        "2": {
+          "title": "Grunt ( build tool )",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "It lets you automate many types of tasks",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Unit testing",
+                  "id": 9
+                },
+                "2": {
+                  "title": "JavaScript error ( linting )",
+                  "id": 10
+                },
+                "3": {
+                  "title": "adding your code to version control ( CV )",
+                  "id": 11
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Yeoman",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "scaffolding tool",
+              "id": 13,
+              "ideas": {
+                "1": {
+                  "title": "to make a bare-bones version of the project.",
+                  "id": 14
+                }
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Node Package Manager ( NPM )",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "These packages run on top of Node.js",
+              "id": 16
+            },
+            "2": {
+              "title": "Example: Add your project jQuery",
+              "id": 20
+            }
+          }
+        },
+        "5": {
+          "title": "Control Version System ( GIT )",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": " It will keep track of all the file",
+              "id": 19
+            }
+          }
+        }
+      }
+    }
+  }
 }
